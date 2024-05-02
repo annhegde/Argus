@@ -10,7 +10,7 @@ chrome.runtime.onMessage.addListener(async function(request, sender, sendRespons
 
 
       // Assuming you have a valid GoogleGenerativeAI class
-      const API_KEY = 'AIzaSyDNB0S_uI-p-OmrkHYyP289_mJvySF6T4A';
+      const API_KEY = '<insert your GoogleGenerativeAI API KEY>';
       const genAI = new GoogleGenerativeAI(API_KEY);
 
       try {
