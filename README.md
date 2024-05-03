@@ -26,3 +26,6 @@ The user can use it analyse websites for dark patterns and emails for phishing s
 ### Script attack protection
 > The extension constantly monitors as you browse through your emails, for unknown scripts injected into the email.
 > If it finds an instance of the same, It prevents the scripts from running and moves the email to a folder called "quarantine". 
+
+## Demo Video
+[link](https://youtu.be/VqMuO7_Fw8g)
